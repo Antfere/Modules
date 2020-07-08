@@ -1,0 +1,15 @@
+{
+  "name": "youtube_title_scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "youtube_title_scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node youtube_title_scrapper.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
